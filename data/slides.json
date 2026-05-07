@@ -1,0 +1,34 @@
+[
+  {
+    "id": "slide-1",
+    "title": "QRIS Payment",
+    "image": "https://cdn.bdr8k8.com/slide/bola.webp",
+    "link": "https://preciseurl.org/BANDARTOTO",
+    "order": 1,
+    "active": true
+  },
+  {
+    "id": "slide-2",
+    "title": "Bonus Spesial",
+    "image": "https://cdn.bdr8k8.com/slide/qrisbt.webp",
+    "link": "https://preciseurl.org/BANDARTOTO",
+    "order": 2,
+    "active": true
+  },
+  {
+    "id": "slide-3",
+    "title": "Freebet Slot",
+    "image": "https://cdn.bdr8k8.com/slide/mj12.webp",
+    "link": "https://preciseurl.org/BANDARTOTO",
+    "order": 3,
+    "active": true
+  },
+  {
+    "id": "slide-4",
+    "title": "Provider Slot Gacor",
+    "image": "https://cdn.bdr8k8.com/slide/apk%20(1).webp",
+    "link": "https://preciseurl.org/BANDARTOTO",
+    "order": 4,
+    "active": true
+  }
+]
