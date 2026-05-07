@@ -11,7 +11,7 @@ body{
   font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
   color:var(--text);
   background:
-    url("https://cdn.ope8k8.com/bandartotowebp/projectbarubandartoto/bgwebbandartotoketiga.webp") center/cover fixed,
+    url("https://cdn.rph8k8.com/RPGAPRILBGOK.webp") center/cover fixed,
     linear-gradient(180deg,var(--bg),var(--bg2));
   min-height:100vh;
   touch-action:manipulation;                 /* cegah double-tap zoom */
